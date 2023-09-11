@@ -4,8 +4,8 @@
   "description": "kstm HP",
   "license": "MIT",
   "scripts": {
-    "src:dev": "vuepress dev src",
-    "src:build": "vuepress build src"
+    "src:dev": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress dev src",
+    "src:build": "set NODE_OPTIONS=--openssl-legacy-provider && vuepress build src"
   },
   "devDependencies": {
     "vuepress": "^1.8.2"
