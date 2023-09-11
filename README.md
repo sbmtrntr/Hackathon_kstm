@@ -4,7 +4,7 @@
 ## kstmのHPにLT会発表資料閲覧ページを追加
 
 ### 概要説明
-- 毎月開催されるLT会において、発表者が作成した資料を閲覧できるページを作ることにした
+- 毎月開催されるLT会において、発表者が作成した資料を閲覧できるページを作成
 
 ### 使用環境
 - とりあえずローカルで所望の動作を実現できるようにする
@@ -22,7 +22,7 @@
     - 〆9/20
 
 <details>
-<summary>kstm ホームページのREADME</summary>
+<summary>kstm HPのREADME</summary>
 
 # kstm Homepage
 VuePressで再構成したkstm HP
