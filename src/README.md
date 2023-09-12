@@ -12,6 +12,10 @@ footer: MIT Licensed | Copyright © 2021 kstm-su
 部員による記事を[blog](/posts/)にて不定期で更新しています｡  
 :::
 
+::: tip LT会資料
+[slides](/slides/)にて過去のkstmLT会の資料を閲覧出来ます。
+:::
+
 ::: tip 活動内容
 [kstmについて](/aboutus)をご覧ください。
 :::
