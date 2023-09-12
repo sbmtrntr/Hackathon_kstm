@@ -11,6 +11,7 @@ module.exports = {
       { text: 'kstmについて', link: '/aboutus' },
       { text: 'Join', link: '/join' },
       { text: 'Contact', link: '/contact' },
+      { text: 'Slide', link: '/slides/' },
       { text: 'Blog', link: '/posts/' }
     ],
     
@@ -42,7 +43,7 @@ module.exports = {
         ]
       }
     ]
-
+    // slideでもsidebar使いたいけど自動でインデックスできないと厳しい。
   }
 }
 
