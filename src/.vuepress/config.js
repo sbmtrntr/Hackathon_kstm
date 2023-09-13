@@ -11,42 +11,9 @@ module.exports = {
       { text: 'kstmについて', link: '/aboutus' },
       { text: 'Join', link: '/join' },
       { text: 'Contact', link: '/contact' },
-      { text: 'Slide', link: '/slides/' },
+      { text: 'Slides', link: '/slides/' },
       { text: 'Blog', link: '/posts/' }
     ],
-    
-    // HACK: 自動でインデックスできると楽
-    // sidebar: [
-    //   {
-    //     title: 'Blog',
-    //     path: '/posts/',
-    //     children: [
-    //       '/posts/geekhaku',
-    //       '/posts/ictsc-2020',
-    //       '/posts/generate_bacon',
-    //       '/posts/advent-calendar-2018',
-    //       '/posts/kstm_network',
-    //       '/posts/kstm-activity-2017',
-    //       '/posts/advent-calendar-2017',
-    //       '/posts/kstmztp20171208',
-    //       '/posts/isucon7q',
-    //       '/posts/20171029-candle',
-    //       '/posts/isucon6q',
-    //       '/posts/bbq-2016',
-    //       '/posts/kodomo-programming-nagano-2',
-    //       '/posts/ictsc6',
-    //       '/posts/icfpc-2016',
-    //       '/posts/kodomo-programming-nagano-1',
-    //       '/posts/icpc-2016-tsukuba',
-    //       '/posts/kodomo-programming-urugi',
-    //     ]
-    //   },
-    //   {
-    //     title: 'Slides',
-    //     path: 'slides',
-    //     children: []
-    //   }
-    // ]
     sidebar: {
       '/posts/': [
         {
@@ -71,9 +38,18 @@ module.exports = {
             'icpc-2016-tsukuba',
             'kodomo-programming-urugi',
             ]
+          },
+          {
+            title: 'Advent Calender',
+            children:[
+              ['https://qiita.com/advent-calendar/2020/kstm', '2020'],
+              ['https://qiita.com/advent-calendar/2019/kstm', '2019'],
+              ['https://qiita.com/advent-calendar/2018/kstm', '2018'],
+              ['https://qiita.com/advent-calendar/2017/kstm', '2017'],
+              ['https://qiita.com/advent-calendar/2016/kstm', '2016']
+            ]
           }
       ],
-
       '/slides/':[
         {
           title: '2023',
@@ -91,7 +67,6 @@ module.exports = {
         }
       ]
     }
-    // slideでもsidebar使いたいけど自動でインデックスできないと厳しい。
   }
 }
 

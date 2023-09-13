@@ -1,11 +1,9 @@
-# Home
-サークルメンバーによるblogです｡  
+# Blog
+ここでは、サークルメンバーによる**ブログ記事**や過去に行った**アドベントカレンダー**をまとめています。
 
-## アドベントカレンダー
-Qiitaにて行った過去のアドベントカレンダーをまとめています｡  
- 
-[2020](https://qiita.com/advent-calendar/2020/kstm)  
-[2019](https://qiita.com/advent-calendar/2019/kstm)  
-[2018](https://qiita.com/advent-calendar/2018/kstm)  
-[2017](https://qiita.com/advent-calendar/2017/kstm)  
-[2016](https://qiita.com/advent-calendar/2016/kstm)  
+## Pick Up
+###  [技育博2022に参加しました](geekhaku.md)
+
+###  [ICTSC 2020に参加しました](ictsc-2020.md)
+
+###  [アドベントカレンダー2017](https://qiita.com/advent-calendar/2017/kstm)
