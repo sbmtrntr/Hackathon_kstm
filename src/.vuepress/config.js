@@ -1,6 +1,7 @@
 module.exports = {
   title: 'kstm',
   dest: 'docs/',
+  base: '/Hackathon_kstm/',
   head: [
     ['link', { rel: 'icon', type: 'image/svg', href: '/kstm.svg'}]
   ],
