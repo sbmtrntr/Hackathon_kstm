@@ -1,25 +1,18 @@
 # Hackathon_kstm
 2023年9月に開催された部内ハッカソンにおけるwatabezz & shibarinチームのリポジトリ
 
-## kstmのHPにLT会発表資料閲覧ページを追加
+## kstmのHPをいい感じにしてみた
+https://sbmtrntr.github.io/Hackathon_kstm/
 
-### 概要説明
+### 追加した機能
 - 毎月開催されるLT会において、発表者が作成した資料を閲覧できるページを作成
+![Alt text](image.png)
 
-### 使用環境
-- とりあえずローカルで所望の動作を実現できるようにする
-- 後々サーバにデプロイできるようにしたい
+- BlogやSlideのサイドバーをいい感じにまとめた
+![Alt text](image-1.png)
 
-### 作成したページ
-- 後で書く
-
-## 今後の計画
-- 設計決め
-    - サイトの構成、ページレイアウトを決める
-- 役割決め
-    - 上記の内容をまとめて役割を決める
-- 開発
-    - 〆9/20
+- 最初のページにSNS項目を追記し、kstmのtwitterを埋め込んだ
+![Alt text](image-2.png)
 
 <details>
 <summary>kstm HPのREADME</summary>

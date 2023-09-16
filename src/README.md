@@ -24,3 +24,5 @@ footer: MIT Licensed | Copyright © 2021 kstm-su
 新メンバーを募集しています。
 入部希望の方は[Join](/join)を参照してください。
 :::
+
+<a class="twitter-timeline" data-height="700" href="https://twitter.com/kstm_?ref_src=twsrc%5Etfw">Tweets from kstm</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

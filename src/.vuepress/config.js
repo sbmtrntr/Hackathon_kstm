@@ -1,7 +1,7 @@
 module.exports = {
   title: 'kstm',
   dest: 'docs/',
-  base: '/Hackathon_kstm/',
+  base: '/Hackathon_kstm/', // github pagesにデプロイする用
   head: [
     ['link', { rel: 'icon', type: 'image/svg', href: '/kstm.svg'}]
   ],
@@ -13,7 +13,12 @@ module.exports = {
       { text: 'Join', link: '/join' },
       { text: 'Contact', link: '/contact' },
       { text: 'Slides', link: '/slides/' },
-      { text: 'Blog', link: '/posts/' }
+      { text: 'Blog', link: '/posts/' },
+      { text: 'SNS',
+        items: [
+          { text: 'Twitter(X)', link: 'https://twitter.com/kstm_'},
+          { text: 'GitHub', link: 'https://github.com/kstm-su'},
+        ]}
     ],
     sidebar: {
       '/posts/': [
